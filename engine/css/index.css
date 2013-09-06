@@ -51,7 +51,7 @@ html, body { font-family: "Open Sans", "Arial"; font-weight: 300; height: 100%; 
 .column-left .column-left-bar { position: absolute; top: 50%; right: 0; height: 1px; width: 30px; background: black; padding: 0; }
 .column-right { float: left; width: 59%; }
 .column-right .column-right-response { margin-top: 15px; position: relative; background: #fff; padding: 10px; border: 1px solid #ddd; -moz-box-shadow: 1px 1px 2px rgba(0,0,0,0.05); -webkit-box-shadow: 1px 1px 2px rgba(0,0,0,0.05); box-shadow: 1px 1px 2px rgba(0,0,0,0.05); }
-.column-right .column-right-response.first { margin-top: 0; }
+.column-right .column-right-response.first { margin-top: 3px; }
 .column-right .column-right-bar { position: absolute; top: 50%; left: -15px; height: 1px; width: 15px; background: black; }
-.column-right .column-right-bar div { position: absolute; top: -50px; left: 0; height: 50px; width: 1px; background: black; }
+.column-right .column-right-bar div { position: absolute; top: -52px; left: 0; height: 52px; width: 1px; background: black; }
 .column-right .column-right-response span { cursor: help; color: #00A0B1; color: #00A0B1; font-weight: 700; left: -10px; position: absolute; top: -10px; }
