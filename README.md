@@ -16,4 +16,6 @@ Et vous pouvez regarder le graphique des réponses apprises sur cette page : htt
 Installation
 --------
 
-Récupérez juste les fichiers sur votre serveur, créez une base de données MySQL puis mettez à jour le fichier 'engine/config.php' avec les infos de la base.
+- Récupérez les fichiers sur votre serveur.
+- Créez une base de données MySQL puis executez-y le fichier ia.sql (vous pouvez ensuite supprimer ce fichier)
+- Mettez à jour le fichier 'engine/config.php' avec les infos de connexion de votre base.
