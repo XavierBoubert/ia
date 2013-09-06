@@ -10,6 +10,7 @@ Demo
 --------
 
 Vous pouvez tester l'I.A. sur cette page et tenter de dialoguer avec elle : http://ia.xavierboubert.fr
+
 Et vous pouvez regarder le graphique des réponses apprises sur cette page : http://ia.xavierboubert.fr/graph.php
 
 
